@@ -1,0 +1,11 @@
+C:\Users\ivanm\source\repos\FormaProgram\FormaProgram\bin\Debug\FormaProgram.exe.config
+C:\Users\ivanm\source\repos\FormaProgram\FormaProgram\bin\Debug\FormaProgram.exe
+C:\Users\ivanm\source\repos\FormaProgram\FormaProgram\bin\Debug\FormaProgram.pdb
+C:\Users\ivanm\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.Form1.resources
+C:\Users\ivanm\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.Properties.Resources.resources
+C:\Users\ivanm\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.csproj.GenerateResource.cache
+C:\Users\ivanm\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.exe
+C:\Users\ivanm\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.pdb
+C:\Users\ivanm\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.Form2.resources
